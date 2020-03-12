@@ -1,0 +1,18 @@
+{
+  "mahasiswa": [
+    {
+      "userId": 1,
+      "id": 1584017297795,
+      "nim": "1741720155",
+      "nama": "Muhammad Nizar Firmansyah",
+      "alamat": "Pasuruan",
+      "hp": "082331911957",
+      "angkatan": "2018",
+      "status": "aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
